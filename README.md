@@ -16,6 +16,8 @@ Next, a three column row that contains the education in the first column, tecnic
 
 At the end of the page, I have placed the links to my contacts as icons. This makes it for the visitor of my website to have easy acces to the contact information, some of them are links, some are copied to the user's clipboard on click.
 
+I have used flexbox design to separate some elements instead of using tables, for example to separate the period of work for the Professional experience section, and to separate the three columns of Education, Technical Skills and Languages.
+
 ## 3. Project analysis, Visual design
 
 As my main inspiration, I had used the minimalistic CV design, with no face picture to avoid extra distraction. It has a simple 3 color scheme and a sans-serif font. 
