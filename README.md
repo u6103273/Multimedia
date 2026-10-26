@@ -27,3 +27,7 @@ The primary color is white; it is used for the main text. The dark blue is used 
 For easier visual navigation and to avoid any extra decoration, I have chosen a bigger font size and a different color for sections, and a smaller font size for the content in each section. The selected sans-serif font is used because of its modern appearance and in order to improve readability.
 
 Overall, the visual design follors the natural reading flow, making it efficient to find the relevant information, aims to express clarity simplicity and efficiency.
+
+## 4. Link to the Figma project:
+
+https://www.figma.com/design/c5Pb1QZ1qkBSowQmRTt56i/Hypermedia-project?node-id=0-1&t=oJ735mZYnqkou6Ym-1 
